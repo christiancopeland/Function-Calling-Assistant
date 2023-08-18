@@ -1,10 +1,10 @@
-# Function-Calling-Assistant
+### Function-Calling-Assistant
 An integration of OpenAI's function-calling update and a Knowledge Base microservice
 
-#API
+## API
 kb_microservice.py
 
-#Chat
+## Chat
 test_kb_service.py
 
 ## Why?
