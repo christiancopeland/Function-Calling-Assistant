@@ -1,7 +1,7 @@
 ### Function-Calling-Assistant
 An integration of OpenAI's function-calling update and a Knowledge Base microservice
 
-You can find an example of creating a KB article in kb/
+You can find an example of creating a KB article in kb/, articles are yaml files with metadata
 
 ## API
 kb_microservice.py
